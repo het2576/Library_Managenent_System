@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define MAX_TITLE_LENGTH 100      // macros for max entity
+//macros for max entity 
+#define MAX_TITLE_LENGTH 100      
 #define MAX_AUTHOR_LENGTH 100
 #define MAX_BOOKS 100
 
